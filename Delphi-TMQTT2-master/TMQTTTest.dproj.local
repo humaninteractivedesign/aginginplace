@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/12 13:48:37.000.563,=C:\Users\jeff_P50\github\Delphi-TMQTT2-master\synapse\synaip.pas</Transaction>
+    <Transaction>2017/09/12 13:48:37.000.580,=C:\Users\jeff_P50\github\Delphi-TMQTT2-master\synapse\synautil.pas</Transaction>
+    <Transaction>2017/09/12 13:48:37.000.498,=C:\Users\jeff_P50\github\Delphi-TMQTT2-master\synapse\blcksock.pas</Transaction>
+    <Transaction>2017/09/12 13:48:37.000.537,=C:\Users\jeff_P50\github\Delphi-TMQTT2-master\synapse\synafpc.pas</Transaction>
+    <Transaction>2017/09/12 13:48:37.000.593,=C:\Users\jeff_P50\github\Delphi-TMQTT2-master\synapse\synsock.pas</Transaction>
+    <Transaction>2017/09/12 13:48:37.000.522,=C:\Users\jeff_P50\github\Delphi-TMQTT2-master\synapse\synacode.pas</Transaction>
+    <Transaction>2017/09/12 15:00:02.000.494,C:\Users\jeff_P50\github\Delphi-TMQTT2-master\TMQTTTest.dproj=C:\Users\jeff_P50\github\Delphi-TMQTT2-master\TMQTTTest.dproj</Transaction>
+    <Transaction>2017/09/12 15:16:47.000.308,C:\Users\jeff_P50\github\Delphi-TMQTT2-master\TMQTTTest.dproj=C:\Users\jeff_P50\github\Delphi-TMQTT2-master\TMQTTTest.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
